@@ -52,4 +52,5 @@ using the equation: V = ((input)/1023)*5.
 
 
 Why do you have to put resistors on the circuit?
-They allow us to control the voltage flowing to each color of the LED.
+They allow us to control the voltage flowing to each color of the LED, and they prevent 
+the possibility of short circuiting.

@@ -39,12 +39,6 @@ void loop() {
     //Serial.print(greenVal);
     //Serial.println(blueVal);
   }
- /* else if (val1 < 682){
-    val = ((val1 - 341) * 3) / 8;
-    redVal = 0;
-    blueVal = 255 - val;
-    greenVal = val;
-  }*/
   else{
     greenVal = 0;
     blueVal = 0;
